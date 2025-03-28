@@ -1,6 +1,6 @@
-# Processing WhatsApp Multimedia with Amazon Bedrock Agents: Images, Video, and Documents
 
-[Amazon Bedrock](https://aws.amazon.com/bedrock) can now process various content types through the [Amazon Nova Model](https://aws.amazon.com/ai/generative-ai/nova/), enabling you to create AI assistants that understand context across different media formats. This post will demonstrate how to build a WhatsApp assistant that analyzes images, processes videos, extracts information from documents, and transcribes audio messages—all while maintaining context throughout the conversation with [Amazon Bedrock Agents](https://aws.amazon.com/bedrock/agents/). 
+## (https://github.com/build-on-aws/building-gen-ai-whatsapp-assistant-with-amazon-bedrock-and-python/tree/main/private-assistant-v2)
+# Processing WhatsApp Multimedia with Amazon Bedrock Agents: Images, Video, and Documents
 
 You'll learn how to combine Amazon Bedrock with [AWS End User Messaging](https://aws.amazon.com/end-user-messaging/) for direct WhatsApp integration, creating a serverless solution that eliminates the need for additional API layers.
 
